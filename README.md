@@ -1,12 +1,12 @@
 # Pacman-AI-Solution
 
 The Pacman AI projects were developed at
-# UC Berkeley
+### UC Berkeley
 
 The core projects and autograders were primarily created by 
-# John DeNero (denero@cs.berkeley.edu) 
+### John DeNero (denero@cs.berkeley.edu) 
 and
-# Dan Klein (klein@cs.berkeley.edu)
+### Dan Klein (klein@cs.berkeley.edu)
 
 Student side autograding was added by 
-# Brad Miller, Nick Hay, and Pieter Abbeel (pabbeel@cs.berkeley.edu).
+### Brad Miller, Nick Hay, and Pieter Abbeel (pabbeel@cs.berkeley.edu).
